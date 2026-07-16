@@ -1,0 +1,8 @@
+.gradle/
+build/
+app/build/
+.svelte-kit/
+node_modules/
+local.properties
+*.iml
+.idea/
