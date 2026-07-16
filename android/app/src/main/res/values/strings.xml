@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Favorito</string>
+    <string name="title_activity_main">Favorito</string>
+    <string name="package_name">com.favorito</string>
+    <string name="custom_url_scheme">com.favorito</string>
+    <string name="notification_listener_label">Favorito music monitor</string>
+    <string name="accessibility_service_label">Favorito volume skip</string>
+    <string name="tile_label">Favorito</string>
+</resources>
